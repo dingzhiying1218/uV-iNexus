@@ -51,8 +51,4 @@ const changeCollapse = (value: string | string[] | number) => {
   font-size: 18px;
   font-weight: bold;
 }
-
-.ant-divider-horizontal {
-  margin: 12px 0px 0px 0px;
-}
 </style>

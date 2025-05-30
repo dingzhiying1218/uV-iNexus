@@ -251,4 +251,8 @@ onMounted(async () => {
     color: #67c23a;
   }
 }
+
+.ant-divider-horizontal {
+  margin: 12px 0px 0px 0px;
+}
 </style>
