@@ -238,11 +238,6 @@ onMounted(async () => {
 </script>
 
 <style scoped lang="less">
-.title {
-  font-size: 18px;
-  font-weight: bold;
-}
-
 .start-button {
   position: relative;
   display: flex;
@@ -255,9 +250,5 @@ onMounted(async () => {
     font-size: 16px;
     color: #67c23a;
   }
-}
-
-.ant-divider-horizontal {
-  margin: 12px 0px 0px 0px;
 }
 </style>
